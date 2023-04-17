@@ -1,0 +1,6 @@
+Login URL	https://ignin.aws.amazon.com/console
+Region	Asia Pacific
+Username	student-11111111111111
+Password	Er1USi5123bnZWep1aC
+Access Key ID	AKIAUAWOPG123T5R7B4H
+Secret Access Key	afGwnXRaAsE+jY+MC/uCujCDx3MqWdT4yLKI1Jvs
